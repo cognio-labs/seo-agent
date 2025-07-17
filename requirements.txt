@@ -1,0 +1,16 @@
+streamlit
+langchain-groq
+langchain-openai
+langchain-google-genai
+langgraph
+beautifulsoup4
+requests
+python-dotenv
+langchain-community
+unstructured
+openpyxl
+google-api-python-client
+replicate
+google-search-results
+pytrends
+praw
